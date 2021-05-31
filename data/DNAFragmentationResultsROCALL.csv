@@ -1,0 +1,208 @@
+Patient Type,MuticlassofBinaryPrediction,Class,SerialNo,PredictedClass,Cancer_prob,Healthy_prob
+Bile Duct Cancer,Bile Duct Cancer,1,338,Cancer,0.64,0.36
+Bile Duct Cancer,Bile Duct Cancer,1,339,Cancer,0.906666667,0.093333333
+Bile Duct Cancer,Bile Duct Cancer,1,340,Cancer,0.793333333,0.206666667
+Bile Duct Cancer,Bile Duct Cancer,1,341,Cancer,0.813333333,0.186666667
+Bile Duct Cancer,Bile Duct Cancer,1,342,Cancer,0.946666667,0.053333333
+Bile Duct Cancer,Bile Duct Cancer,1,343,Cancer,0.633333333,0.366666667
+Bile Duct Cancer,Healthy,1,344,Healthy,0.313333333,0.686666667
+Bile Duct Cancer,Bile Duct Cancer,1,345,Cancer,0.92,0.08
+Bile Duct Cancer,Bile Duct Cancer,1,346,Cancer,0.933333333,0.066666667
+Bile Duct Cancer,Bile Duct Cancer,1,347,Cancer,0.593333333,0.406666667
+Bile Duct Cancer,Bile Duct Cancer,1,348,Cancer,0.913333333,0.086666667
+Bile Duct Cancer,Bile Duct Cancer,1,349,Cancer,0.813333333,0.186666667
+Bile Duct Cancer,Bile Duct Cancer,1,350,Cancer,0.806666667,0.193333333
+Bile Duct Cancer,Bile Duct Cancer,1,351,Cancer,0.853333333,0.146666667
+Bile Duct Cancer,Bile Duct Cancer,1,352,Cancer,0.66,0.34
+Bile Duct Cancer,Bile Duct Cancer,1,353,Cancer,0.8,0.2
+Bile Duct Cancer,Bile Duct Cancer,1,354,Cancer,0.686666667,0.313333333
+Bile Duct Cancer,Healthy,1,355,Healthy,0.473333333,0.526666667
+Bile Duct Cancer,Bile Duct Cancer,1,357,Cancer,0.793333333,0.206666667
+Bile Duct Cancer,Bile Duct Cancer,1,358,Cancer,0.9,0.1
+Bile Duct Cancer,Bile Duct Cancer,1,360,Cancer,0.66,0.34
+Bile Duct Cancer,Healthy,1,362,Healthy,0.306666667,0.693333333
+Bile Duct Cancer,Bile Duct Cancer,1,363,Cancer,0.993333333,0.006666667
+Bile Duct Cancer,Bile Duct Cancer,1,365,Cancer,0.793333333,0.206666667
+Bile Duct Cancer,Bile Duct Cancer,1,366,Cancer,0.9,0.1
+Breast Cancer,Breast Cancer,1,27,Cancer,0.773333333,0.226666667
+Breast Cancer,Breast Cancer,1,28,Cancer,0.606666667,0.393333333
+Breast Cancer,Breast Cancer,1,29,Cancer,0.673333333,0.326666667
+Breast Cancer,Healthy,1,30,Healthy,0.42,0.58
+Breast Cancer,Breast Cancer,1,31,Cancer,0.946666667,0.053333333
+Breast Cancer,Breast Cancer,1,32,Cancer,0.72,0.28
+Breast Cancer,Breast Cancer,1,33,Cancer,0.653333333,0.346666667
+Breast Cancer,Healthy,1,34,Healthy,0.326666667,0.673333333
+Breast Cancer,Breast Cancer,1,35,Cancer,0.86,0.14
+Breast Cancer,Breast Cancer,1,36,Cancer,0.8,0.2
+Breast Cancer,Breast Cancer,1,37,Cancer,0.873333333,0.126666667
+Breast Cancer,Healthy,1,38,Healthy,0.046666667,0.953333333
+Breast Cancer,Breast Cancer,1,39,Cancer,0.74,0.26
+Breast Cancer,Breast Cancer,1,40,Cancer,0.52,0.48
+Breast Cancer,Breast Cancer,1,41,Cancer,0.56,0.44
+Breast Cancer,Healthy,1,42,Healthy,0.54,0.46
+Breast Cancer,Breast Cancer,1,43,Cancer,0.726666667,0.273333333
+Breast Cancer,Healthy,1,44,Healthy,0.213333333,0.786666667
+Breast Cancer,Breast Cancer,1,45,Cancer,0.586666667,0.413333333
+Breast Cancer,Breast Cancer,1,46,Cancer,0.76,0.24
+Breast Cancer,Healthy,1,47,Healthy,0.353333333,0.646666667
+Breast Cancer,Healthy,1,48,Healthy,0.46,0.54
+Breast Cancer,Breast Cancer,1,49,Cancer,0.686666667,0.313333333
+Breast Cancer,Healthy,1,50,Healthy,0.233333333,0.766666667
+Breast Cancer,Breast Cancer,1,51,Cancer,0.84,0.16
+Breast Cancer,Breast Cancer,1,52,Cancer,0.873333333,0.126666667
+Breast Cancer,Breast Cancer,1,53,Cancer,0.88,0.12
+Breast Cancer,Breast Cancer,1,54,Cancer,0.64,0.36
+Breast Cancer,Breast Cancer,1,55,Cancer,0.593333333,0.406666667
+Breast Cancer,Breast Cancer,1,56,Cancer,0.72,0.28
+Breast Cancer,Breast Cancer,1,57,Cancer,0.653333333,0.346666667
+Breast Cancer,Breast Cancer,1,58,Cancer,0.54,0.46
+Breast Cancer,Healthy,1,59,Healthy,0.393333333,0.606666667
+Breast Cancer,Breast Cancer,1,60,Cancer,0.553333333,0.446666667
+Breast Cancer,Healthy,1,61,Healthy,0.366666667,0.633333333
+Breast Cancer,Breast Cancer,1,62,Cancer,0.713333333,0.286666667
+Breast Cancer,Breast Cancer,1,63,Cancer,0.766666667,0.233333333
+Breast Cancer,Breast Cancer,1,64,Cancer,0.62,0.38
+Breast Cancer,Breast Cancer,1,65,Cancer,0.66,0.34
+Breast Cancer,Breast Cancer,1,66,Cancer,0.446666667,0.553333333
+Breast Cancer,Breast Cancer,1,67,Cancer,0.673333333,0.326666667
+Breast Cancer,Healthy,1,68,Healthy,0.3,0.7
+Breast Cancer,Healthy,1,69,Healthy,0.206666667,0.793333333
+Breast Cancer,Breast Cancer,1,70,Cancer,0.8,0.2
+Breast Cancer,Breast Cancer,1,71,Cancer,0.886666667,0.113333333
+Breast Cancer,Breast Cancer,1,72,Cancer,0.833333333,0.166666667
+Breast Cancer,Breast Cancer,1,73,Cancer,0.74,0.26
+Breast Cancer,Breast Cancer,1,74,Cancer,0.913333333,0.086666667
+Breast Cancer,Breast Cancer,1,75,Cancer,0.833333333,0.166666667
+Breast Cancer,Breast Cancer,1,76,Cancer,0.94,0.06
+Breast Cancer,Breast Cancer,1,77,Cancer,0.86,0.14
+Breast Cancer,Breast Cancer,1,78,Cancer,0.706666667,0.293333333
+Breast Cancer,Breast Cancer,1,79,Cancer,0.92,0.08
+Breast Cancer,Breast Cancer,1,80,Cancer,0.6,0.4
+Colorectal Cancer,Colorectal Cancer,1,0,Cancer,0.933333333,0.066666667
+Colorectal Cancer,Colorectal Cancer,1,1,Cancer,0.566666667,0.433333333
+Colorectal Cancer,Colorectal Cancer,1,2,Cancer,0.646666667,0.353333333
+Colorectal Cancer,Colorectal Cancer,1,3,Cancer,0.593333333,0.406666667
+Colorectal Cancer,Colorectal Cancer,1,4,Cancer,0.853333333,0.146666667
+Colorectal Cancer,Colorectal Cancer,1,5,Cancer,0.76,0.24
+Colorectal Cancer,Colorectal Cancer,1,6,Cancer,0.433333333,0.566666667
+Colorectal Cancer,Healthy,1,7,Healthy,0.533333333,0.466666667
+Colorectal Cancer,Colorectal Cancer,1,8,Cancer,0.713333333,0.286666667
+Colorectal Cancer,Colorectal Cancer,1,9,Cancer,0.66,0.34
+Colorectal Cancer,Colorectal Cancer,1,10,Cancer,0.566666667,0.433333333
+Colorectal Cancer,Colorectal Cancer,1,11,Cancer,0.853333333,0.146666667
+Colorectal Cancer,Colorectal Cancer,1,12,Cancer,0.473333333,0.526666667
+Colorectal Cancer,Colorectal Cancer,1,13,Cancer,0.693333333,0.306666667
+Colorectal Cancer,Healthy,1,14,Healthy,0.293333333,0.706666667
+Colorectal Cancer,Colorectal Cancer,1,15,Cancer,0.386666667,0.613333333
+Colorectal Cancer,Colorectal Cancer,1,16,Cancer,0.926666667,0.073333333
+Colorectal Cancer,Colorectal Cancer,1,17,Cancer,0.86,0.14
+Colorectal Cancer,Colorectal Cancer,1,18,Cancer,0.58,0.42
+Colorectal Cancer,Colorectal Cancer,1,19,Cancer,0.84,0.16
+Colorectal Cancer,Colorectal Cancer,1,20,Cancer,0.666666667,0.333333333
+Colorectal Cancer,Colorectal Cancer,1,21,Cancer,0.92,0.08
+Colorectal Cancer,Colorectal Cancer,1,22,Cancer,0.833333333,0.166666667
+Colorectal Cancer,Colorectal Cancer,1,23,Cancer,0.946666667,0.053333333
+Colorectal Cancer,Colorectal Cancer,1,24,Cancer,0.9,0.1
+Colorectal Cancer,Colorectal Cancer,1,25,Cancer,0.846666667,0.153333333
+Colorectal Cancer,Colorectal Cancer,1,26,Cancer,0.933333333,0.066666667
+Gastric cancer,Gastric cancer,1,396,Cancer,0.613333333,0.386666667
+Gastric cancer,Healthy,1,397,Healthy,0.113333333,0.886666667
+Gastric cancer,Healthy,1,398,Healthy,0.186666667,0.813333333
+Gastric cancer,Gastric cancer,1,399,Cancer,0.686666667,0.313333333
+Gastric cancer,Gastric cancer,1,400,Cancer,0.786666667,0.213333333
+Gastric cancer,Gastric cancer,1,401,Cancer,0.633333333,0.366666667
+Gastric cancer,Healthy,1,402,Healthy,0.08,0.92
+Gastric cancer,Gastric cancer,1,403,Cancer,0.98,0.02
+Gastric cancer,Healthy,1,404,Healthy,0.326666667,0.673333333
+Gastric cancer,Gastric cancer,1,405,Cancer,0.806666667,0.193333333
+Gastric cancer,Healthy,1,406,Healthy,0.373333333,0.626666667
+Gastric cancer,Gastric cancer,1,407,Cancer,0.793333333,0.206666667
+Gastric cancer,Gastric cancer,1,408,Cancer,0.58,0.42
+Gastric cancer,Gastric cancer,1,409,Cancer,0.666666667,0.333333333
+Gastric cancer,Gastric cancer,1,410,Cancer,0.766666667,0.233333333
+Gastric cancer,Gastric cancer,1,411,Cancer,0.566666667,0.433333333
+Gastric cancer,Gastric cancer,1,412,Cancer,0.706666667,0.293333333
+Gastric cancer,Gastric cancer,1,413,Cancer,0.68,0.32
+Gastric cancer,Gastric cancer,1,414,Cancer,0.746666667,0.253333333
+Gastric cancer,Gastric cancer,1,415,Cancer,0.566666667,0.433333333
+Gastric cancer,Gastric cancer,1,416,Cancer,0.84,0.16
+Gastric cancer,Gastric cancer,1,417,Cancer,0.953333333,0.046666667
+Gastric cancer,Healthy,1,418,Healthy,0.46,0.54
+Gastric cancer,Gastric cancer,1,419,Cancer,0.573333333,0.426666667
+Gastric cancer,Gastric cancer,1,420,Cancer,0.953333333,0.046666667
+Gastric cancer,Gastric cancer,1,421,Cancer,0.546666667,0.453333333
+Gastric cancer,Gastric cancer,1,422,Cancer,0.606666667,0.393333333
+Lung Cancer,Lung Cancer,1,296,Cancer,0.926666667,0.073333333
+Lung Cancer,Lung Cancer,1,297,Cancer,0.886666667,0.113333333
+Lung Cancer,Lung Cancer,1,298,Cancer,0.953333333,0.046666667
+Lung Cancer,Lung Cancer,1,299,Cancer,0.78,0.22
+Lung Cancer,Lung Cancer,1,300,Cancer,0.64,0.36
+Lung Cancer,Lung Cancer,1,301,Cancer,0.733333333,0.266666667
+Lung Cancer,Healthy,1,302,Healthy,0.473333333,0.526666667
+Lung Cancer,Lung Cancer,1,303,Cancer,0.886666667,0.113333333
+Lung Cancer,Lung Cancer,1,304,Cancer,0.646666667,0.353333333
+Lung Cancer,Lung Cancer,1,305,Cancer,0.62,0.38
+Lung Cancer,Lung Cancer,1,306,Cancer,0.666666667,0.333333333
+Lung Cancer,Lung Cancer,1,307,Cancer,0.793333333,0.206666667
+Ovarian Cancer,Ovarian Cancer,1,308,Cancer,0.84,0.16
+Ovarian Cancer,Ovarian Cancer,1,309,Cancer,0.906666667,0.093333333
+Ovarian Cancer,Ovarian Cancer,1,310,Cancer,0.8,0.2
+Ovarian Cancer,Ovarian Cancer,1,311,Cancer,0.906666667,0.093333333
+Ovarian Cancer,Ovarian Cancer,1,312,Cancer,0.953333333,0.046666667
+Ovarian Cancer,Ovarian Cancer,1,313,Cancer,0.98,0.02
+Ovarian Cancer,Ovarian Cancer,1,314,Cancer,0.913333333,0.086666667
+Ovarian Cancer,Ovarian Cancer,1,315,Cancer,0.826666667,0.173333333
+Ovarian Cancer,Ovarian Cancer,1,316,Cancer,0.68,0.32
+Ovarian Cancer,Ovarian Cancer,1,317,Cancer,0.88,0.12
+Ovarian Cancer,Ovarian Cancer,1,318,Cancer,0.68,0.32
+Ovarian Cancer,Ovarian Cancer,1,319,Cancer,0.573333333,0.426666667
+Ovarian Cancer,Ovarian Cancer,1,320,Cancer,0.92,0.08
+Ovarian Cancer,Healthy,1,321,Healthy,0.22,0.78
+Ovarian Cancer,Healthy,1,322,Healthy,0.5,0.5
+Ovarian Cancer,Ovarian Cancer,1,323,Cancer,0.64,0.36
+Ovarian Cancer,Ovarian Cancer,1,324,Cancer,0.873333333,0.126666667
+Ovarian Cancer,Ovarian Cancer,1,325,Cancer,0.866666667,0.133333333
+Ovarian Cancer,Ovarian Cancer,1,326,Cancer,0.953333333,0.046666667
+Ovarian Cancer,Ovarian Cancer,1,327,Cancer,0.753333333,0.246666667
+Ovarian Cancer,Ovarian Cancer,1,328,Cancer,0.746666667,0.253333333
+Ovarian Cancer,Healthy,1,329,Healthy,0.32,0.68
+Ovarian Cancer,Ovarian Cancer,1,330,Cancer,0.893333333,0.106666667
+Ovarian Cancer,Ovarian Cancer,1,331,Cancer,0.693333333,0.306666667
+Ovarian Cancer,Healthy,1,332,Healthy,0.493333333,0.506666667
+Ovarian Cancer,Healthy,1,333,Healthy,0.366666667,0.633333333
+Ovarian Cancer,Ovarian Cancer,1,334,Cancer,0.98,0.02
+Ovarian Cancer,Ovarian Cancer,1,335,Cancer,0.893333333,0.106666667
+Pancreatic Cancer,Pancreatic Cancer,1,336,Cancer,0.606666667,0.393333333
+Pancreatic Cancer,Pancreatic Cancer,1,356,Cancer,0.88,0.12
+Pancreatic Cancer,Pancreatic Cancer,1,359,Cancer,0.82,0.18
+Pancreatic Cancer,Healthy,1,361,Healthy,0.04,0.96
+Pancreatic Cancer,Pancreatic Cancer,1,364,Cancer,0.906666667,0.093333333
+Pancreatic Cancer,Pancreatic Cancer,1,367,Cancer,0.94,0.06
+Pancreatic Cancer,Pancreatic Cancer,1,368,Cancer,0.606666667,0.393333333
+Pancreatic Cancer,Healthy,1,369,Healthy,0.426666667,0.573333333
+Pancreatic Cancer,Pancreatic Cancer,1,370,Cancer,0.866666667,0.133333333
+Pancreatic Cancer,Pancreatic Cancer,1,371,Cancer,0.986666667,0.013333333
+Pancreatic Cancer,Pancreatic Cancer,1,372,Cancer,0.646666667,0.353333333
+Pancreatic Cancer,Pancreatic Cancer,1,373,Cancer,0.873333333,0.126666667
+Pancreatic Cancer,Pancreatic Cancer,1,374,Cancer,0.793333333,0.206666667
+Pancreatic Cancer,Pancreatic Cancer,1,375,Cancer,0.926666667,0.073333333
+Pancreatic Cancer,Pancreatic Cancer,1,376,Cancer,0.94,0.06
+Pancreatic Cancer,Healthy,1,377,Healthy,0.393333333,0.606666667
+Pancreatic Cancer,Pancreatic Cancer,1,378,Cancer,0.913333333,0.086666667
+Pancreatic Cancer,Pancreatic Cancer,1,379,Cancer,0.953333333,0.046666667
+Pancreatic Cancer,Pancreatic Cancer,1,380,Cancer,0.493333333,0.506666667
+Pancreatic Cancer,Healthy,1,381,Healthy,0.173333333,0.826666667
+Pancreatic Cancer,Pancreatic Cancer,1,382,Cancer,0.8,0.2
+Pancreatic Cancer,Pancreatic Cancer,1,383,Cancer,0.553333333,0.446666667
+Pancreatic Cancer,Pancreatic Cancer,1,384,Cancer,0.706666667,0.293333333
+Pancreatic Cancer,Pancreatic Cancer,1,385,Cancer,0.593333333,0.406666667
+Pancreatic Cancer,Healthy,1,386,Healthy,0.106666667,0.893333333
+Pancreatic Cancer,Healthy,1,387,Healthy,0.173333333,0.826666667
+Pancreatic Cancer,Healthy,1,388,Healthy,0.266666667,0.733333333
+Pancreatic Cancer,Pancreatic Cancer,1,389,Cancer,0.566666667,0.433333333
+Pancreatic Cancer,Pancreatic Cancer,1,390,Cancer,0.526666667,0.473333333
+Pancreatic Cancer,Pancreatic Cancer,1,391,Cancer,0.96,0.04
+Pancreatic Cancer,Healthy,1,392,Healthy,0.186666667,0.813333333
+Pancreatic Cancer,Pancreatic Cancer,1,393,Cancer,0.98,0.02
+Pancreatic Cancer,Pancreatic Cancer,1,394,Cancer,0.78,0.22
+Pancreatic Cancer,Pancreatic Cancer,1,395,Cancer,0.986666667,0.013333333
